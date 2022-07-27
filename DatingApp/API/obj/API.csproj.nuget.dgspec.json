@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Dating App Project\\Dating App - German\\dotnet-dating-app\\datingapp\\API\\API.csproj": {}
+    "E:\\Dating App Project\\Dating App - German\\dotnet-dating-app\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\Dating App Project\\Dating App - German\\dotnet-dating-app\\datingapp\\API\\API.csproj": {
+    "E:\\Dating App Project\\Dating App - German\\dotnet-dating-app\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Dating App Project\\Dating App - German\\dotnet-dating-app\\datingapp\\API\\API.csproj",
+        "projectUniqueName": "E:\\Dating App Project\\Dating App - German\\dotnet-dating-app\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Dating App Project\\Dating App - German\\dotnet-dating-app\\datingapp\\API\\API.csproj",
+        "projectPath": "E:\\Dating App Project\\Dating App - German\\dotnet-dating-app\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Kosti\\.nuget\\packages\\",
-        "outputPath": "E:\\Dating App Project\\Dating App - German\\dotnet-dating-app\\datingapp\\API\\obj\\",
+        "outputPath": "E:\\Dating App Project\\Dating App - German\\dotnet-dating-app\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

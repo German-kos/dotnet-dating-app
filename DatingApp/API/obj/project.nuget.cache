@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SmshWylmdoj2DcxcPbDS/K5Q87G4b+snK4iZfxxWF39g4fMyDHuCitII7o+sdq/cwen69jGc+Js47ffxh/cgqA==",
+  "dgSpecHash": "Pn37YUG/VmuIiIWJPMr+E5pjgRyIdhmyQSEXJ3LKn8OHCrMjGiB9vy/5hulXknge7z2G1rvQQ18MnIybvXo3cg==",
   "success": true,
-  "projectFilePath": "E:\\Dating App Project\\Dating App - German\\dotnet-dating-app\\datingapp\\API\\API.csproj",
+  "projectFilePath": "E:\\Dating App Project\\Dating App - German\\dotnet-dating-app\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kosti\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Kosti\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
