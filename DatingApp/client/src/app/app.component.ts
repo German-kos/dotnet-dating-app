@@ -11,7 +11,7 @@ export class AppComponent {
   users: any;
   constructor(private http: HttpClient) {}
   ngOnInit(): void {
-    this.getUsers();
+    // this.getUsers();
   }
 
   getUsers() {
@@ -25,11 +25,17 @@ export class AppComponent {
       // () => {
       //   console.log('Finished');
       // }
-       {
-        next: (response)=> {this.users = response;}, // what to do with returned data
-        error: (error) => {console.log(error);}, // what to do with error
-        complete: () => {console.log('Finished');} // what to do when finished
-       }
+      {
+        next: (response) => {
+          this.users = response;
+        }, // what to do with returned data
+        error: (error) => {
+          console.log(error);
+        }, // what to do with error
+        complete: () => {
+          console.log('Finished');
+        }, // what to do when finished
+      }
     );
   }
 }
