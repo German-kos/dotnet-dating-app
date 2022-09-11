@@ -15,11 +15,6 @@
     />
   </div>
 
-  <select class="form-control">
-    <option *ngFor="let user of usersFromHomeComponent" [value]="user.username">
-      {{ user.userName }}
-    </option>
-  </select>
   <div class="form-group">
     <input
       type="text"
@@ -32,6 +27,8 @@
 
   <div class="form-group text center">
     <button class="btn btn-success mr2" type="submit">Register</button>
-    <button class="btn btn-default mr-2" type="button">cancel</button>
+    <button (click)="cancel()" class="btn btn-default mr-2" type="button">
+      cancel
+    </button>
   </div>
 </form>
