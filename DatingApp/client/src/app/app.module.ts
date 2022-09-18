@@ -11,6 +11,7 @@ import { RegisterComponent } from './register/register.component';
 import { MessagesComponent } from './messages/messages.component';
 import { ListsComponent } from './lists/lists.component';
 import { CoreModule } from './modules/core.module';
+import { TestErrorsComponent } from './test-errors/test-errors.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +22,7 @@ import { CoreModule } from './modules/core.module';
     MessagesComponent,
 
     ListsComponent,
+      TestErrorsComponent,
   ],
   imports: [
     BrowserModule,
